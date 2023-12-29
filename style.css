@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-size: 35px;
+    background-color: rgb(249, 173, 80);
+}
+
+.hp.title {
+    font-size: 55px;
+    text-align: center;
+}
+
+.recipe-list {
+    background-color: rgb(249, 173, 80);
+    font-size: 35px;
+}
+
+.subtitles {
+    color: orange;
+    font-style: italic; 
+}
+
+.return-hp,
+.text {
+    font-size: 20px;
+}
+
